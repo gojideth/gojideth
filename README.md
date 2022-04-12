@@ -35,7 +35,8 @@
  I really enjoy programming in Javascript, but I still use a lot of Java ❤.
 </p>
 
-<p align = 'center'>  
- <img src = "https://github-readme-stats.vercel.app/api?username=gojideth">
+<p align = 'center'>   
+  <img src = "https://github-readme-stats.vercel.app/api?username=gojideth">
+
 </p>
 
