@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Backend developer, I like to use Javascript, Node.js and Java.
+  Backend developer, I'm currently programming in Scala, but I also like to use Node.js and Java.
   <br>
   <br>
   Contact me!  
@@ -24,7 +24,8 @@
   My preferred technologies
    <br>
     <br>
-    <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src ="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">
+    <img src ="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src = "https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
