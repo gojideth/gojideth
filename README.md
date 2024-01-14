@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Backend developer, I'm currently programming in Scala using PLay, Zio and Akka, but I have experience working with Node.js and Java.
+  Backend developer, I'm currently programming in Scala using Play, ZIO and Akka, but I have experience working with Node.js and Java.
   <br>
   <br>
   Contact me!  
