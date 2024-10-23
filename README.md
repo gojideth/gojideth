@@ -30,5 +30,5 @@
 </h2>
 
 <p align = 'center'>  
- I really enjoy programming in Javascript, but I still use a lot of Java ❤.
+ I really enjoy programming in Scala ❤.
 </p>
